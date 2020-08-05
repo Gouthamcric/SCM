@@ -10,4 +10,5 @@ then
 break
 fi
 ((count++))
+echo "exiting"
 done
